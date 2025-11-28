@@ -56,7 +56,7 @@ Dentro do Godot:
 
 ---
 
-## 🕹️ Controles (exemplo)
+## 🕹️ Controles 
 
 - ** A - Left Direction / D - Right Direction** — movimento  
 - **Espaço** — Pular
