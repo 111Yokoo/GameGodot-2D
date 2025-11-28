@@ -19,7 +19,7 @@ Para abrir o projeto em qualquer computador:
 
 ### 1️⃣ Baixe ou clone o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
+git clone https://github.com/111Yokoo/GameGodot-2D.git
 ```
 
 - **Ou** baixar o ZIP no GitHub clicando em *Code > Download ZIP*.
